@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+  <world name="default">
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <include>
+      <uri>model://test_table</uri>
+      <name>table1</name>
+      <pose>-1.62 -0.29 0 0 0 0</pose>
+    </include>
+    <include>
+      <uri>model://test_table</uri>
+      <name>table2</name>
+      <pose>-0.5916 1.345 0 0 0 -3.0986</pose>
+    </include>
+    <include>
+      <uri>model://part</uri>
+      <name>part1</name>
+      <pose>0.2628 -0.5343 0.1732 3.1415 -1.5368 3.1415</pose>
+    </include>
+    <include>
+      <name>pallet1</name>
+      <uri>model://pallet_single</uri>
+      <pose>-0.1417 -0.2827 -0.2698 0 0 0</pose>
+    </include>
+    <include>
+      <name>pallet2</name>
+      <uri>model://pallet_single</uri>
+      <pose>-0.134 1.8929 -0.2698 0 0 0</pose>
+    </include>
+    <include>
+      <uri>model://person_standing</uri>
+      <name>person1</name>
+      <pose>-1.07 -0.85 0 0 0 -3.14</pose>
+    </include>
+    <include>
+      <uri>model://person_standing</uri>
+      <name>person2</name>
+      <pose>-0.98 2.005 0 0 0 -0.0398</pose>
+    </include>
+    <include>
+      <uri>model://omron</uri>
+      <name>sensor1</name>
+      <pose>5 1 5 0 0 -0.0398</pose>
+    </include>
+
+
+  </world>
+</sdf>

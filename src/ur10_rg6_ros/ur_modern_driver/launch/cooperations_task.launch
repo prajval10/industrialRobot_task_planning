@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<launch>
+  
+  <!-- Launch the UR BRINGUP FILE -->
+  <include file="$(find ur_modern_driver)/launch/ur10_bringup.launch">
+          
+  </include>
+
+  <!-- Launch the Grip Detect Node -->
+  <node name="rg6_detect_client" pkg="ur_control" type="rg6_detect_client.py" />
+
+
+  <!-- Launch the robot interface -->
+  <node name="robot_interface" pkg="ur_modern_driver" type="robot_interface.py" output="screen" />  
+  <!-- Launch the human interface -->
+  <node name="human_interface" pkg="ur_modern_driver" type="human_interface.py" output="screen" />
+
+</launch>
