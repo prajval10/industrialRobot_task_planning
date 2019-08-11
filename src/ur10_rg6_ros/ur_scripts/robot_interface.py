@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Author: Prajval Kumar Murali
+#
 import time
 import roslib; roslib.load_manifest('ur_driver')
 import rospy
@@ -29,15 +31,6 @@ gripper_width_open = 30.0
 threshold = 0.09 # this corresponds to 5 degrees of difference in joint position
 robot_file = open("/home/prajval10/catkin_ws/src/ur10_rg6_ros/ur_modern_driver/ur_scripts/robot_timing","a")
 
-"""
-## TODO after 27 July:
-1. Implement feature to handle protective stop: Done-sort of
-2. The OR graph is not working, check why (H1_human hyperarc)- done
-3. Grasping pose is not perfect, tune this - done
-
-## Todo after 2 Aug:
-1. Check with 18 parts
-"""
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
