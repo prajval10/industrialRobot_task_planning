@@ -1,0 +1,7 @@
+[Hyper-arc Name] [Seq or nonSeq] [Action1]  [Action1]  [Action1] ... [0]
+
+# Seq: ordered sequence o actions, nonSeq: non-ordered sequence o actions 
+# [0]: after writing all the actions write a 0 at the end of each hyper-arch
+
+
+

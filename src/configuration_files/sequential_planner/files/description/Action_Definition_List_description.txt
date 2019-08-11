@@ -1,0 +1,6 @@
+[action name] 
+[how the action shoud be done: "single" agent, "all" agents, "biman" agents] 
+[Number of agents who can perform the action]
+[agents name who can perform the action] 
+[action type: if it is simple, or complex: another andor graph]
+

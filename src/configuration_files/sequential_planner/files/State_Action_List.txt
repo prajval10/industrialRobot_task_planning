@@ -1,0 +1,61 @@
+pallet_full
+part_&_pallet_14
+part_&_pallet_13
+part_&_pallet_12
+part_&_pallet_11
+part_&_pallet_10
+part_&_pallet_9
+part_&_pallet_8
+part_&_pallet_7
+part_&_pallet_6
+part_&_pallet_5
+part_&_pallet_4
+part_&_pallet_3
+part_&_pallet_2
+part_&_pallet_1
+part_15
+part_14
+part_13
+part_12
+part_11
+part_10
+part_9
+part_8
+part_7
+part_6
+part_5
+part_4
+part_3
+part_2
+part_1
+pallet_empty
+h1 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose1 UnGrasp approachGoal intGoal startPose
+h1_human Handover PickPlace
+h2 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose2 UnGrasp approachGoal intGoal startPose
+h2_human Handover PickPlace
+h3 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose3 UnGrasp approachGoal intGoal startPose
+h3_human Handover PickPlace
+h4 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose4 UnGrasp approachGoal intGoal startPose
+h4_human Handover PickPlace
+h5 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose5 UnGrasp approachGoal intGoal startPose
+h5_human Handover PickPlace
+h6 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose6 UnGrasp approachGoal intGoal startPose
+h6_human Handover PickPlace
+h7 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose7 UnGrasp approachGoal intGoal startPose
+h7_human Handover PickPlace
+h8 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose8 UnGrasp approachGoal intGoal startPose
+h8_human Handover PickPlace
+h9 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose9 UnGrasp approachGoal intGoal startPose
+h9_human Handover PickPlace
+h10 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose10 UnGrasp approachGoal intGoal startPose
+h10_human Handover PickPlace
+h11 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose11 UnGrasp approachGoal intGoal startPose
+h11_human Handover PickPlace
+h12 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose12 UnGrasp approachGoal intGoal startPose
+h12_human Handover PickPlace
+h13 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose13 UnGrasp approachGoal intGoal startPose
+h13_human Handover PickPlace
+h14 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose14 UnGrasp approachGoal intGoal startPose
+h14_human Handover PickPlace
+h15 UnGrasp startPose Handover approachObj GotoObject Grasp approachObj intGoal approachGoal goalPose15 UnGrasp approachGoal intGoal startPose
+h15_human Handover PickPlace
