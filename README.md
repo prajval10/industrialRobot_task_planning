@@ -9,7 +9,7 @@ Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-
 </p>
 
 ### Software Architecture
-The overall cooperation task is based on a modular, reactive architecture. The  architecture  has  two  phases,  namely  the Offline  Phase and  the Online  Phase.  The Offline  Phase is  composed  of teaching  safe  way-points  for  the  robot  in  the  manufacturing work-cell.   This   process   is   application-dependent   and   is done  by  a  robot  programmer  using  the  robot  teach-pendant, Programming  by  Demonstration  (PbD) or Offline Programming (through   CAD-based   simulations).
+The overall cooperation task is based on a modular, reactive architecture. The  architecture  has  two  phases,  namely  the Offline  Phase and  the Online  Phase.  The Offline  Phase is  composed  of teaching  safe  way-points  for  the  robot  in  the  manufacturing work-cell.   This   process   is   application-dependent   and   is done  by  a  robot  programmer.
 
 The Online Phase has three layers namely the representation layer shown in blue,the perception layer in orange and interface layer in green. 
 - Representation layer: Responsible for task representation, task allocation and task planning. 
