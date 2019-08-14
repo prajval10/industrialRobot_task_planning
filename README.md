@@ -8,7 +8,8 @@ Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-
   <img src="https://user-images.githubusercontent.com/22452731/62788941-38c26400-bac8-11e9-8e76-ef5eb51a4cb7.gif" />
 </p>
 
-### Software Architecture
+## Software Architecture
+### Theory
 The overall cooperation task is based on a modular, reactive architecture. The  architecture  has  two  phases,  namely  the Offline  Phase and  the Online  Phase.  The Offline  Phase is  composed  of teaching  safe  way-points  for  the  robot  in  the  manufacturing work-cell.   This   process   is   application-dependent   and   is done  by  a  robot  programmer.
 
 The Online Phase has three layers namely the representation layer shown in blue,the perception layer in orange and interface layer in green. 
@@ -34,6 +35,23 @@ The Online Phase has three layers namely the representation layer shown in blue,
 
 #### Hardware Dependency
 The architecture is tested on UR10 Universal Robot running firmware version CB 3.0 and PolyScope version 3.5. The gripper used is OnRobot RG6 gripper and Cognex 7802 machine vision system for the perception.
+
+### Packages
+```
+Configuration_files
+     |
+     |
+     +----> and_or/files-->pallet_assembly.txt
+     |
+     |
+     +----> sequential_planner/files----> Action_Definition_list.txt
+                          |
+                          |
+                          +-------------> State_Action_list.txt
+```
+These files have to be replaced in the `AND/OR` and `AI_planner` packages. The `pallet_assembly.txt` provides the task representation, while the files `Action_Definition_list.txt` and `State_Action_list.txt` provides the necessary actions for the task manager.
+
+
 
 
 
