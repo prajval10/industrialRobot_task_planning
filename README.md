@@ -21,7 +21,7 @@ The Online Phase has three layers namely the representation layer shown in blue,
   <img src="https://user-images.githubusercontent.com/22452731/62839986-78897700-bc93-11e9-8ddd-9ad00ae4ad15.png" width="600" height="700" />
 </p>
 
-### Dependency
+### External Dependency
 
 #### Software Dependency
 
