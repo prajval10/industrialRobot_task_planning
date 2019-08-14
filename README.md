@@ -20,12 +20,21 @@ The Online Phase has three layers namely the representation layer shown in blue,
   <img src="https://user-images.githubusercontent.com/22452731/62839986-78897700-bc93-11e9-8ddd-9ad00ae4ad15.png" width="600" height="700" />
 </p>
 
-### Sofware Dependency
+### Dependency
+
+#### Software Dependency
 
 | Sl. No | Dependency |   Remark  |     Version    |
 |:------:|:----------:|:---------:|:--------------:|
 |   1.   |   [AND/OR](https://github.com/kouroshD/ANDOR)   | Mandatory |                |
 |   2.   | [AI Planner](https://github.com/kouroshD/AI_Planner) | Mandatory |                |
-|   3.   |     ROS    | Mandatory | Atleast Indigo |
-|   4.   |     UR Modern Driver    | Mandatory |  |
+|   3.   |     [ROS](https://www.ros.org/)    | Mandatory | Atleast Indigo |
+|   4.   |     [UR Modern Driver](https://github.com/ros-industrial/ur_modern_driver)    | Mandatory | Included in this repo |
+|   5.   |     [Gazebo](http://gazebosim.org/)    | Mandatory |  |
+
+#### Hardware Dependency
+The architecture is tested on UR10 Universal Robot running firmware version CB 3.0 and PolyScope version 3.5. The gripper used is OnRobot RG6 gripper and Cognex 7802 machine vision system for the perception.
+
+
+
 
