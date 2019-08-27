@@ -1,6 +1,6 @@
 # Implementation of Human-Robot Collaboration Models in Manifacturing Scenarios
 
-Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-nantes.fr/)) program at the [University of Genova, Italy](https://unige.it/).
+Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-nantes.fr/)) program at the [University of Genova, Italy](https://unige.it/) and [Schaeffler](https://www.schaeffler.com/content.schaeffler.com/en/index.jsp).
 
 **Supervisors**: [Prof. Fulvio Mastrogiovanni](https://www.dibris.unige.it/mastrogiovanni-fulvio) and [Dr. Kourosh Darvish](https://www.iit.it/people/kourosh-darvish)
 
