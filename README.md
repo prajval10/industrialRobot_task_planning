@@ -69,8 +69,8 @@ export FLEX_INSTALL_PREFIX=<prefix>
 export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:${FLEX_INSTALL_PREFIX}/my_ur_gazebo/models
 ```
 
-
-
+**Disclaimer** The software here is presented as is and is no longer actively maintained and updated. 
+ 
 
 
 
