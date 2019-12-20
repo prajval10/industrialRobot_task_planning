@@ -52,6 +52,24 @@ Configuration_files
 These files have to be replaced in the `AND/OR` and `AI_planner` packages. The `pallet_assembly.txt` provides the task representation, while the files `Action_Definition_list.txt` and `State_Action_list.txt` provides the necessary actions for the task manager.
 
 
+#### System Setup
+Linux:
+```
+ git clone https://github.com/prajval10/industrialRobot_task_planning.git
+ cd industrialRobot_task_planning
+ catkin_make
+```
+
+Add the following to your `.bashrc` file:
+
+```
+# Path to the `industrialRobot_task_planning/src` folder
+export FLEX_INSTALL_PREFIX=<prefix>
+# Gazebo related env variables (see http://gazebosim.org/tutorials?tut=components#EnvironmentVariables )
+export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:${FLEX_INSTALL_PREFIX}/my_ur_gazebo/models
+```
+
+
 
 
 
