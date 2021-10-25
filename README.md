@@ -2,7 +2,13 @@
 
 Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-nantes.fr/)) program at the [University of Genova, Italy](https://unige.it/) and [Schaeffler](https://www.schaeffler.com/content.schaeffler.com/en/index.jsp).
 
-**Supervisors**: [Prof. Fulvio Mastrogiovanni](https://www.dibris.unige.it/mastrogiovanni-fulvio) and [Dr. Kourosh Darvish](https://www.iit.it/people/kourosh-darvish)
+If you use this software package in any form, please cite the following paper [link](https://link.springer.com/article/10.1007/s11370-020-00332-9): 
+```
+Murali, Prajval Kumar, Kourosh Darvish, and Fulvio Mastrogiovanni. 
+"Deployment and evaluation of a flexible human–robot collaboration model 
+based on AND/OR graphs in a manufacturing environment." 
+Intelligent Service Robotics 13.4 (2020): 439-457.
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22452731/62788941-38c26400-bac8-11e9-8e76-ef5eb51a4cb7.gif" />
