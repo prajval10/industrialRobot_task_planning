@@ -1,6 +1,6 @@
 # Implementation of Human-Robot Collaboration Models in Manifacturing Scenarios
 
-Master's Thesis (M.S) for Robotics Engineering ([EMARO](https://master-emaro.ec-nantes.fr/)) program at the [University of Genova, Italy](https://unige.it/) and [Schaeffler](https://www.schaeffler.com/content.schaeffler.com/en/index.jsp).
+Project performed at the [University of Genova, Italy](https://unige.it/) and [Schaeffler Group](https://www.schaeffler.com/content.schaeffler.com/en/index.jsp).
 
 If you use this software package in any form, please cite the following paper [link](https://link.springer.com/article/10.1007/s11370-020-00332-9): 
 ```
