@@ -1,4 +1,4 @@
-# Implementation of Human-Robot Collaboration Models in Manifacturing Scenarios
+# Flexible Human-Robot Collaboration Models in Manufacturing Scenarios
 
 Project performed at the [University of Genova, Italy](https://unige.it/) and [Schaeffler Group](https://www.schaeffler.com/content.schaeffler.com/en/index.jsp).
 
